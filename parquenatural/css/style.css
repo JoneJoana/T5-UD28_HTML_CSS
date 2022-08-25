@@ -1,0 +1,23 @@
+html{
+    font-family: 'Lucida Sans Unicode';
+}
+h1{
+    text-align: center;
+    color: rgb(13, 154, 13);
+}
+.brown {
+    color: rgb(152, 104, 36);
+}
+div{
+    border: 2px outset #b0b6b7;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: justify;
+}
+h2{
+    color: rgb(13, 154, 13);
+}
+p,h2{
+    margin-left: 20px;
+    margin-right: 20px;
+}
