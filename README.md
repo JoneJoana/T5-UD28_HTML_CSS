@@ -4,7 +4,7 @@
 
 Del EJ 6 al EJ 10
 
-EJ 6 - commit 
+EJ 6 - hasta el 3r commit (34a3d8e) - plantilla basica html
 
 ## Rama EJ7
 
