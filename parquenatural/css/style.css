@@ -9,15 +9,24 @@ h1{
     color: rgb(152, 104, 36);
 }
 div{
-    border: 2px outset #b0b6b7;
+    border: 2px outset #b0b6b773;
     margin-left: 20px;
     margin-right: 20px;
     text-align: justify;
 }
-h2{
-    color: rgb(13, 154, 13);
-}
-p,h2{
+h2{    
     margin-left: 20px;
     margin-right: 20px;
+    color: rgb(13, 154, 13);
+}
+p{
+    margin-left: 20px;
+    margin-right: 20px;  
+    font-size: 14px;
+}
+hr{
+    color: rgba(101, 206, 101, 0.459);
+    margin-top: 0px;
+    margin-left: 20px;
+    margin-right: 20px; 
 }
