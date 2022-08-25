@@ -6,13 +6,13 @@ Del EJ 6 al EJ 10
 
 EJ 6 - hasta el 3r commit (34a3d8e) - plantilla basica html
 
-## Rama EJ7
+EJ 7 - hasta el 8o commit (50fe176) - ej 7 done
 
 
-## Rama EJ8 
+EJ 8 - hasta el    commit () - 
 
 
-## Rama EJ9
+EJ 9 - hasta el   commit () - 
 
 
-## Rama EJ10
+EJ10 - hasta el   commit () - 
