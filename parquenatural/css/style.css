@@ -1,5 +1,11 @@
-html{
+body{
     font-family: 'Lucida Sans Unicode';
+    text-align: justify;
+    width: 900px;
+    margin: 0 auto;
+}
+.wrapper {
+    display: flex;
 }
 .brown {
     color: rgb(152, 104, 36);
@@ -7,30 +13,38 @@ html{
 .green{
     color: rgb(13, 154, 13);
 }
+
+.aside{
+    float: left;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0;
+    list-style-type: none;
+}
+.main{
+    float: left;
+    padding: 10px;
+    margin-left: 40px;    
+    border: 2px outset #b0b6b773;
+}
+
 h1{
     text-align: center;
+    letter-spacing: .2em;
     color: rgb(13, 154, 13);
 }
-h2{    
-    margin-left: 20px;
+h2,h3{    
+    margin-left: 2px;
     margin-right: 20px;
+    margin-bottom: 0px;
+}
+h2{
     color: rgb(13, 154, 13);
 }
 h3{
-    margin-left: 20px;
     color: rgb(152, 104, 36);
 }
-div{
-    border: 2px outset #b0b6b773;
-    margin-left: 20px;
-    margin-right: 20px;
-    text-align: justify;
-}
-p{
-    margin-left: 20px;
-    margin-right: 20px;  
-    font-size: 14px;
-}
+
 hr{
     color: rgba(101, 206, 101, 0.459);
     margin-top: 0px;
