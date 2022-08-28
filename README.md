@@ -12,4 +12,4 @@ EJ 8 - hasta el 11o commit (c28e6bd) - ej8 done
 
 EJ 9 - hasta el 16o commit (d2fc5e7) - update index.html
 
-EJ10 - hasta el ultimo commit (903245e) - fix conflicts ej 10 done
+EJ10 - hasta el ultimo commit, estado final rama main
