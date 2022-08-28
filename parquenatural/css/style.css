@@ -64,6 +64,15 @@ a{
 footer{
     text-align: center;
 }
+li{    
+    border: 2px outset rgba(177, 176, 176, 0.546);
+    margin-bottom: 5px;
+    padding: 1px;
+    background: rgb(118, 199, 60);
+}
+li:hover{
+    background: khaki;
+}
 
 h1{
     text-align: center;
